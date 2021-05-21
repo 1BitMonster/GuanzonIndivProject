@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Town Proper","order":1,"parentId":0,"scrollX":1132,"scrollY":624},
+{"id":2,"expanded":false,"name":"Inn Room","order":2,"parentId":1,"scrollX":1139,"scrollY":646},
+{"id":3,"expanded":false,"name":"Inn Hallway","order":3,"parentId":1,"scrollX":1139,"scrollY":646},
+{"id":4,"expanded":false,"name":"Inn lobby","order":4,"parentId":1,"scrollX":1366.8,"scrollY":775.1999999999999},
+{"id":5,"expanded":false,"name":"Armory","order":5,"parentId":1,"scrollX":1139,"scrollY":646},
+{"id":6,"expanded":false,"name":"Medical Bay","order":6,"parentId":1,"scrollX":1139,"scrollY":646},
+{"id":7,"expanded":false,"name":"House","order":7,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"Dragon","order":8,"parentId":1,"scrollX":1139,"scrollY":646},
+{"id":9,"expanded":true,"name":"Town End","order":9,"parentId":1,"scrollX":1131,"scrollY":1026}
+]
